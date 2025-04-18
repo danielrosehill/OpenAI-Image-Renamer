@@ -11,6 +11,13 @@ This repository contains a very simple, yet effective script for using the OpenA
 - Processes images quickly to rewrite their names.
 - Converts WebP images to PNG format during the renaming process.
 
+## Scripts
+
+| Script | Description |
+|--------|-------------|
+| [renamer.py](renamer.py) | Renames images recursively based on their content using OpenAI's vision model |
+| [rename-and-convert.py](rename-and-convert.py) | Renames images and converts WebP files to PNG format |
+
 ## Usage
 
 1. Place your images in a dedicated folder. Ensure that the images have non-descriptive names.
